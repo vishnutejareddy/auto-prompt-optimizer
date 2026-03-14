@@ -1,2 +1,8 @@
 timestamp	score	hypothesis	result
 2026-03-13 23:34:36	8.980	baseline	KEPT
+2026-03-13 23:35:29	8.840	verdict ALL CAPS as first word + one-sentence thesis	DISCARDED
+2026-03-13 23:36:16	9.000	add silent chain-of-thought before writing	DISCARDED
+2026-03-13 23:37:08	9.000	add bad/good analysis examples	DISCARDED
+2026-03-13 23:37:57	9.000	strip structure to single tight paragraph	DISCARDED
+2026-03-13 23:38:51	8.900	longer word count + specific price target with justification	DISCARDED
+2026-03-13 23:46:23	8.824	baseline-25cases	KEPT
