@@ -1,0 +1,27 @@
+[
+  {
+    "input": "The quarterly earnings report showed revenue of $4.2 billion, up 12% year-over-year, with net income of $800 million. The company also announced a new product line launching next spring and raised its full-year guidance.",
+    "expected": "Revenue $4.2B (+12% YoY), net income $800M. New product line coming next spring; full-year guidance raised.",
+    "task": "summarize"
+  },
+  {
+    "input": "Scientists have discovered a new species of deep-sea fish near hydrothermal vents in the Pacific Ocean. The fish, named Thermichthys venomus, can survive temperatures up to 40°C and produces bioluminescent light to attract prey.",
+    "expected": "New deep-sea fish species found near Pacific hydrothermal vents. Survives up to 40°C, uses bioluminescence to hunt.",
+    "task": "summarize"
+  },
+  {
+    "input": "The city council voted 7-2 to approve the new zoning ordinance that allows mixed-use development in previously residential areas. Opponents argued it would increase traffic and reduce green space, while supporters cited housing shortages.",
+    "expected": "City council (7-2) approved mixed-use zoning in residential areas. Critics cite traffic/green space concerns; supporters point to housing shortage.",
+    "task": "summarize"
+  },
+  {
+    "input": "Researchers at MIT developed a new battery technology using sodium ions instead of lithium, reducing costs by 40% while maintaining 90% of the energy density. The technology could make electric vehicles more affordable.",
+    "expected": "MIT created sodium-ion battery that cuts costs 40% with 90% of lithium's energy density, potentially lowering EV prices.",
+    "task": "summarize"
+  },
+  {
+    "input": "A local restaurant, founded in 1987, announced it will close after 37 years of operation. The owners cited rising food costs, labor shortages, and the lingering effects of the pandemic as reasons for the closure.",
+    "expected": "37-year-old local restaurant closing due to rising costs, labor shortages, and pandemic aftermath.",
+    "task": "summarize"
+  }
+]
