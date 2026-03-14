@@ -12,3 +12,4 @@ timestamp	score	hypothesis	result
 2026-03-14 00:03:23	7.824	additive-baseline: minimal prompt	KEPT
 2026-03-14 00:07:30	6.784	add: prose only + price target	DISCARDED
 2026-03-14 00:10:48	8.044	add: verdict upfront + prose + 200-word limit + price target	KEPT
+2026-03-14 00:13:59	8.196	add: valuation risk weighting + discount CEO commentary	KEPT
