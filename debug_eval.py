@@ -32,7 +32,7 @@ DIVIDER = "─" * 72
 def run_prompt(system_prompt: str, user_input: str) -> str:
     resp = client.messages.create(
         model=GEN_MODEL,
-        max_tokens=512,
+        max_tokens=1024,
         system=system_prompt,
         messages=[{"role": "user", "content": user_input}],
     )
