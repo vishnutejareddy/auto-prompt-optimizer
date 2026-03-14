@@ -15,3 +15,9 @@ timestamp	score	hypothesis	result
 2026-03-14 00:13:59	8.196	add: valuation risk weighting + discount CEO commentary	KEPT
 2026-03-14 00:19:30	8.624	add: verdict-target consistency + turnaround signal + bear trigger	KEPT
 2026-03-14 00:23:26	8.736	add: priced-in collapses + multi-segment weighting + verify arithmetic	KEPT
+2026-03-14 00:27:24	8.444	add: no hallucinated multiples + STRONG BUY threshold + commodity trigger	DISCARDED
+2026-03-14 00:30:26	8.484	add: commodity price trigger only	DISCARDED
+2026-03-14 00:33:37	8.628	add: specific entry condition for BULLISH/STRONG BUY	DISCARDED
+2026-03-14 00:36:41	8.568	add: CEO transition risk + 5pp decel threshold at premium multiples	DISCARDED
+2026-03-14 00:40:40	8.516	add: AVOID recovery thresholds + dual-CEO governance risk	DISCARDED
+2026-03-14 00:43:44	8.656	tighten: 175 words + every sentence moves argument	DISCARDED
