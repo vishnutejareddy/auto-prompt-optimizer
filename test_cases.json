@@ -1,27 +1,27 @@
 [
   {
-    "input": "The quarterly earnings report showed revenue of $4.2 billion, up 12% year-over-year, with net income of $800 million. The company also announced a new product line launching next spring and raised its full-year guidance.",
-    "expected": "Revenue $4.2B (+12% YoY), net income $800M. New product line coming next spring; full-year guidance raised.",
-    "task": "summarize"
+    "input": "Apple Inc. reported Q3 FY2024 results: revenue of $85.8B (up 5% YoY), net income $21.4B, EPS $1.40 vs $1.26 expected. iPhone revenue $39.3B (-1% YoY), Services revenue $24.2B (+14% YoY), record for Services. Gross margin 46.3% vs 44.5% prior year. Cash and equivalents $153B. Guidance for Q4: revenue $85-88B. CEO Tim Cook highlighted AI integration into iOS 18 and expanding India manufacturing. The stock rose 3.2% after-hours.",
+    "expected": "BULLISH. Services segment hitting record $24.2B (+14% YoY) with expanding 46.3% gross margins signals a structural shift from hardware dependency. $153B cash reserve + AI/iOS18 catalyst and India manufacturing diversification reduce risk. Q4 guidance midpoint ($86.5B) implies continued momentum. Key risk: iPhone decline (-1%) must stabilize. Price action (+3.2% AH) confirms institutional buy-in. Outlook: accumulate on dips, 12-month target range $210-230.",
+    "task": "financial_analysis"
   },
   {
-    "input": "Scientists have discovered a new species of deep-sea fish near hydrothermal vents in the Pacific Ocean. The fish, named Thermichthys venomus, can survive temperatures up to 40°C and produces bioluminescent light to attract prey.",
-    "expected": "New deep-sea fish species found near Pacific hydrothermal vents. Survives up to 40°C, uses bioluminescence to hunt.",
-    "task": "summarize"
+    "input": "Tesla Q2 2024: Revenue $25.2B (+2% YoY), automotive revenue $19.8B (-7% YoY), energy generation $3.0B (+100% YoY). Net income $1.48B (-45% YoY), automotive gross margin 18.5% vs 18.1% prior quarter. Deliveries 443,956 units (-5% YoY first decline since 2020). Free cash flow $1.34B. Cybertruck production ramping, 1,000 units/week target. FSD revenue recognition deferred $2.9B. Price cuts totaling 25% over 18 months. Elon Musk reaffirmed Robotaxi event October 2024 and 20-30% vehicle volume growth in 2025.",
+    "expected": "CAUTIOUS/NEUTRAL. Automotive margin recovery to 18.5% is encouraging but masks structural pressure: 25% cumulative price cuts have eroded brand premium and revenue (-7% auto YoY) with no clear floor. Energy segment doubling is a real positive but too small ($3B) to offset core weakness. The $2.9B deferred FSD revenue is a non-cash accounting wildcard. Delivery decline (-5% YoY) is a red flag for growth thesis. Robotaxi and 2025 volume promises are execution-dependent and speculative. Avoid adding; watch Q3 delivery data as make-or-break signal.",
+    "task": "financial_analysis"
   },
   {
-    "input": "The city council voted 7-2 to approve the new zoning ordinance that allows mixed-use development in previously residential areas. Opponents argued it would increase traffic and reduce green space, while supporters cited housing shortages.",
-    "expected": "City council (7-2) approved mixed-use zoning in residential areas. Critics cite traffic/green space concerns; supporters point to housing shortage.",
-    "task": "summarize"
+    "input": "Nvidia Q1 FY2025: Revenue $26.0B (+262% YoY, +18% QoQ), Data Center $22.6B (+427% YoY). Net income $14.9B, EPS $5.98 vs $5.59 expected. Gross margin 78.4%. Q2 guidance: $28B ±2%. Blackwell GPU architecture shipments beginning Q2, H100 still in high demand. Hyperscaler customers (Microsoft, Google, Amazon, Meta) all increasing AI capex. Supply constraints easing. $10B buyback authorized. CEO Jensen Huang noted 'accelerating demand with no demand destruction observed'.",
+    "expected": "STRONG BUY. The numbers speak clearly: 78.4% gross margin at $26B scale is exceptional and expanding. Data center at $22.6B is not a one-quarter anomaly — all four hyperscalers are structurally increasing AI capex with multi-year commitments. Blackwell transition risk is real but manageable given continued H100 demand. Supply easing removes the only near-term constraint. $28B Q2 guidance (+7.7% QoQ) shows no demand cliff. The $10B buyback signals management confidence. Only risk: geopolitical (China export controls) and a black-swan hyperscaler capex pullback. Core holding; add on any >10% pullback.",
+    "task": "financial_analysis"
   },
   {
-    "input": "Researchers at MIT developed a new battery technology using sodium ions instead of lithium, reducing costs by 40% while maintaining 90% of the energy density. The technology could make electric vehicles more affordable.",
-    "expected": "MIT created sodium-ion battery that cuts costs 40% with 90% of lithium's energy density, potentially lowering EV prices.",
-    "task": "summarize"
+    "input": "Bed Bath & Beyond filed Chapter 11 bankruptcy January 2023. Last reported quarter: revenue $1.26B (-33% YoY), same-store sales -32%, gross margin collapsed to 16% from 38% two years prior. Inventory write-downs $100M+. $1.82B total debt vs $100M cash. Lost 4 of 5 C-suite executives in 6 months. 150 store closures announced. Vendors cutting credit terms, requiring cash-on-delivery. DIP financing $240M secured. Holiday season sales missed badly. Attempted turnaround with owned-brand strategy failed to gain traction.",
+    "expected": "AVOID / HIGH BANKRUPTCY RISK. This is a textbook retail death spiral: gross margin collapse (38% → 16%) signals vendor relationship breakdown and desperate discounting simultaneously. $1.82B debt vs $100M cash with vendors demanding COD means liquidity is days/weeks dependent on DIP financing. -32% same-store sales has no floor visible. Executive exodus removes any execution optionality. The owned-brand pivot was a costly distraction during a survival crisis. DIP financing buys time, not a turnaround. Equity is likely worthless; any rally is a short opportunity. Do not hold any position.",
+    "task": "financial_analysis"
   },
   {
-    "input": "A local restaurant, founded in 1987, announced it will close after 37 years of operation. The owners cited rising food costs, labor shortages, and the lingering effects of the pandemic as reasons for the closure.",
-    "expected": "37-year-old local restaurant closing due to rising costs, labor shortages, and pandemic aftermath.",
-    "task": "summarize"
+    "input": "Microsoft Q3 FY2024: Revenue $61.9B (+17% YoY), cloud (Azure) +21% YoY, Office 365 commercial +15%, LinkedIn +10%. Operating income $27.6B, margin 44.6%. EPS $2.94 vs $2.82 expected. AI Copilot now embedded across all product lines, 1.8M paying Copilot seats. Capital expenditure $14B (+79% YoY) for AI infrastructure. Activision contribution $900M revenue in quarter. Free cash flow $20.3B. Guidance Q4: $63.5-64.5B revenue. Azure growth expected to accelerate in H2 as AI workloads ramp.",
+    "expected": "BULLISH / CORE HOLDING. 44.6% operating margin at $61.9B scale with accelerating growth is rare in large-cap tech. Azure +21% with management guiding acceleration demonstrates durable cloud share gains, not one-time AI hype. 1.8M Copilot seats is early but the monetization path ($30/user/month) represents a $650M+ ARR run rate growing rapidly. $14B capex (+79%) is aggressive but justified given Azure demand signals. FCF of $20.3B funds buybacks and dividends comfortably. Activision integration on track. Risk: capex cycle must convert to revenue — watch Azure growth for any deceleration. Strong buy on any weakness.",
+    "task": "financial_analysis"
   }
 ]
